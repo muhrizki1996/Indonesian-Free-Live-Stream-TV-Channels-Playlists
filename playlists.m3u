@@ -4,83 +4,50 @@
 #EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_net_big1.png" group-title="Local Channel",NET TV (Server 1)
 https://streaming.useetv.com/jhos/net.m3u8?stime=20190622170000&etime=20190622190000&encoded=0f86bca8ecb766fb967c1
 
-#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_net_big1.png" group-title="Local Channel",NET TV (Server 2)
-https://kmklive-lh.akamaihd.net/i/nettv_ta_regular@198086/master.m3u8?hdnts=st=1561198253~exp=1561198373~acl=/i/*~hmac=ea572c5b2e3b76cfa7dc8190f5b28f01e6facff8f15479fbd734d3eb47580ecd
+#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/rcti.png" group-title="Local Channel",RCTI (Server 1)
+http://id8.indostreamingtv.com/live/tv66/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/rcti.png" group-title="Local Channel",RCTI
-https://kmklive-lh.akamaihd.net/i/rcti_ta_regular@94478/master.m3u8?hdnts=st=1561196109~exp=1561196229~acl=/i/*~hmac=d5fdbd9421faa937fa609b8ae9adba5241fdf91cb0d363725d230b7c3a2901b1
+#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/mnctv.png" group-title="Local Channel",MNC TV (Server 1)
+http://id2.indostreamingtv.com/live/event/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/mnctv.png" group-title="Local Channel",MNC TV
-https://kmklive-lh.akamaihd.net/i/mnctv_ta_regular@137568/master.m3u8?hdnts=st=1561196743~exp=1561196863~acl=/i/*~hmac=a66066125afb2255bf5b8307360980adcf45913acb5d2589d2c2f7c878edec0f
-
-#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/gtv.png" group-title="Local Channel",GTV
-https://kmklive-lh.akamaihd.net/i/globaltv_ta_regular@94478/master.m3u8?hdnts=st=1561198942~exp=1561199062~acl=/i/*~hmac=7e9d196c601183d21e1ed6d81aa120e73e231a7e51d282de05348ba0423600d9
+#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/gtv.png" group-title="Local Channel",GTV (Server 1)
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_sctv_big1.png" group-title="Local Channel",SCTV (Server 1)
-https://streaming.useetv.com/jhos/sctv.m3u8?stime=20190622160000&etime=20190622180000&encoded=0f7dfe35a0ac5378609e1
-
-#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_sctv_big1.png" group-title="Local Channel",SCTV (Server 2)
-https://kmklive-lh.akamaihd.net/i/sctv_ta_regular@94479/master.m3u8?hdnts=st=1561196212~exp=1561196332~acl=/i/*~hmac=332a5e8f893db37d41318d49125c6e3a388ee3610cb87183d890d01dc3e675e1
+http://id2.indostreamingtv.com/live/tv2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_indosiar_big1.png" group-title="Local Channel",Indosiar (Server 1)
-https://streaming.useetv.com/jhos/indosiar.m3u8?stime=20190622160000&etime=20190622180000&encoded=0545e2db97e563fcc3999
-
-#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_indosiar_big1.png" group-title="Local Channel",Indosiar (Server 2)
-https://kmklive-lh.akamaihd.net/i/indosiar_ta_geo@94479/master.m3u8?hdnts=st=1561199745~exp=1561199865~acl=/i/*~hmac=451eadf824ad4668695f2cd17fddbd6d2e3ac68062ccfec4f5873c28b38b3501
+http://id2.indostreamingtv.com/live/tv111/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_trans7_big1.png" group-title="Local Channel",Trans 7 (Server 1)
-https://streaming.useetv.com/jhos/trans7.m3u8?stime=20190622160000&etime=20190622180000&encoded=07e752ed4368570c15103
-
-#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_trans7_big1.png" group-title="Local Channel",Trans 7 (Server 3)
-https://kmklive-lh.akamaihd.net/i/trans7_ta_regular@94476/master.m3u8?hdnts=st=1561196477~exp=1561196597~acl=/i/*~hmac=28f8e20545f1fa8f3fad00a893dfcd63597ff09a2d2cb12c339c6a0c1bb8060
+http://id1.indostreamingtv.com/live/tv77/index.m3u8
 
 #EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_transtv_big1.png" group-title="Local Channel",Trans TV (Server 1)
-https://streaming.useetv.com/jhos/transtv.m3u8?stime=20190622160000&etime=20190622180000&encoded=0f89d0d4b38b6d1aaabd1
+http://id6.indostreamingtv.com/live/tv33/index.m3u8
 
 #EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_transtv_big1.png" group-title="Local Channel",Trans TV (Server 2)
 https://stream-01.sg1.dailymotion.com/sec(E-jzZRG7S4T1sGdliNQCuRxCOEdtIdmR_2etrXxp1gQ)/dm/3/x4nwi47/live.m3u8
 
-#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_transtv_big1.png" group-title="Local Channel",Trans TV (Server 3)
-https://kmklive-lh.akamaihd.net/i/transtv_ta_regular@94476/master.m3u8?hdnts=st=1561196573~exp=1561196693~acl=/i/*~hmac=2c76045f6b39d2560774eff90484982836173a942bb878b0080b3ab2215be0bf
-
-#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_cnnindonesia_big1.png" group-title="Local Channel",CNN Indonesia (Server 1)
-https://streaming.useetv.com/jhos/cnnindonesia.m3u8?stime=20190622160000&etime=20190622180000&encoded=09815c4d761bc05ace221
-
 #EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_cnnindonesia_big1.png" group-title="Local Channel",CNN Indonesia (Server 2)
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_beritasatu_big1.png" group-title="Local Channel",Berita Satu (Server 1)
-https://streaming.useetv.com/jhos/sbr/beritasatu.m3u8?stime=20190622160000&etime=20190622180000&encoded=0eb4142f6ea34f1d7dea4
 
 #EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_beritasatu_big1.png" group-title="Local Channel",Berita Satu (Server 2)
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_beritasatu_big1.png" group-title="Local Channel",Berita Satu (Server 3)
-https://kmklive-lh.akamaihd.net/i/beritasatu_ta_regular@94480/master.m3u8?hdnts=st=1561197393~exp=1561197513~acl=/i/*~hmac=665e9e5abff108628b10d43d08cd1853c2b3cf687675f28c2ac249a2de82ea37
-
 #EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_tvone_big1.png" group-title="Local Channel",TV One (server 1)
-https://streaming.useetv.com/jhos/tvone.m3u8?stime=20190622160000&etime=20190622180000&encoded=06720e1a8985b794f42ce
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
 
 #EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_tvone_big1.png" group-title="Local Channel",TV One (Server 2)
 https://stream-02.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybAifjxsnViQ4LzVKt3E7SHY)/dm/3/x619221/live.m3u8
 
-#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_tvone_big1.png" group-title="Local Channel",TV One (Server 3)
-https://kmklive-lh.akamaihd.net/i/tvone_ta_regular@577566/master.m3u8?hdnts=st=1561197874~exp=1561197994~acl=/i/*~hmac=04a2a492935222b7d47b88f276cbe0a9fb5897715cb047388bdce6bc41be5a5f
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_metrotv_big1.png" group-title="Local Channel",Metro TV (Server 2a)
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_metrotv_big1.png" group-title="Local Channel",Metro TV (Server 1)
-https://streaming.useetv.com/jhos/metrotv.m3u8?stime=20190622170000&etime=20190622190000&encoded=02c8f591a2d246db54bb2
-
-#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_metrotv_big1.png" group-title="Local Channel",Metro TV (Server 2)
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_metrotv_big1.png" group-title="Local Channel",Metro TV (Server 2b)
 https://stream-04.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCSwQkF9xUuxA9ObMMeB9bhP0)/dm/3/x75p70w/live.m3u8
 
-#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_metrotv_big1.png" group-title="Local Channel",Metro TV (Server 3)
-https://kmklive-lh.akamaihd.net/i/metrotv_ta_regular@577566/master.m3u8?hdnts=st=1561199000~exp=1561199120~acl=/i/*~hmac=038e42a41214da1e422f30c78f0ae24d1e1054f50ad75a238188842fc94751e1
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_kompastv_big1.png" group-title="Local Channel",Kompas TV (Server 2a)
+https://stream-02.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G4WrnEHTxLsr92PW7w3Lhl0)/dm/3/x6pz4sa/live.m3u8
 
-#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_kompastv_big1.png" group-title="Local Channel",Kompas TV (Server 1)
-https://streaming.useetv.com/jhos/kompastv.m3u8?stime=20190622170000&etime=20190622190000&encoded=02772273377801978cb4c
-
-#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_kompastv_big1.png" group-title="Local Channel",Kompas TV (Server 3)
-https://kmklive-lh.akamaihd.net/i/kompastv_ta_regular@586951/master.m3u8?hdnts=st=1561199570~exp=1561199690~acl=/i/*~hmac=01062cf3af7bb207cb774e90875389f87b794f3e49919521c8fa65a3feb62d2a
-
-#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_antara_big1.png" group-title="Local Channel",Antara TV
-https://streaming.useetv.com/jhos/sbr/antara.m3u8?stime=20190622170000&etime=20190622190000&encoded=0a01bf5046455976b4901
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_kompastv_big1.png" group-title="Local Channel",Kompas TV (Server 2b)
+http://43.245.183.170/kompastv/live.stream/playlist.m3u8
