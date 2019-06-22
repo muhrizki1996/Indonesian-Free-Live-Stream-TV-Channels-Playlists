@@ -19,6 +19,9 @@ http://id2.indostreamingtv.com/live/tv2/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_indosiar_big1.png" group-title="Local Channel",Indosiar (Server 1)
 http://id2.indostreamingtv.com/live/tv111/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_antv_big1.png" group-title="Local Channel",ANTV (Server 1)
+https://cdn-livetv1.metube.id/hls/antv.m3u8
+
 #EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_trans7_big1.png" group-title="Local Channel",Trans 7 (Server 1)
 http://id1.indostreamingtv.com/live/tv77/index.m3u8
 
