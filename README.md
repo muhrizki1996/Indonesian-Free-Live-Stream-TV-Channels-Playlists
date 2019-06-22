@@ -9,6 +9,11 @@ Server 3: External ([meTube.Id](https://www.metube.id/live/ANTV))
 
 <img src="/img/screenshot.png?raw=true" alt="Playlists Screenshot on VLC App" align="center">
 
+### How to Use
+- Copy or type this link [http://bit.ly/TVplaylistGitHub](http://bit.ly/TVplaylistGitHub) to VLC App, Kodi or your favorite IPTV Player
+- Enjoy the channels for free
+- If you found dead channels or any issue, please report on [Issues](https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/issues) section.
+
 --------------------------------------------------------------------------------------------
 
 ### Credits
