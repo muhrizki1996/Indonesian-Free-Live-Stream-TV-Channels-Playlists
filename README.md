@@ -1,10 +1,10 @@
 # Indonesian-Free-Live-TV-Stream-Channels-Playlists
 ### Information
-Total Channel: 14 (date: 22-Jun-2019 20:36)
-Dead: 2  (date: 22-Jun-2019 20:36)
-Server 1: External ([tvonline.id](http://www.tvonline.id))
-Server 2a: Official
-Server 2b: Official Alternative
+Total Channel: 14 (date: 22-Jun-2019 20:36)<br>
+Dead: 2  (date: 22-Jun-2019 20:36)<br>
+Server 1: External ([tvonline.id](http://www.tvonline.id))<br>
+Server 2a: Official<br>
+Server 2b: Official Alternative<br>
 Server 3: External [meTube.Id](https://www.metube.id/live/ANTV)
 
 <img src="/img/screenshot.png?raw=true" alt="Playlists Screenshot on VLC App" align="center">
