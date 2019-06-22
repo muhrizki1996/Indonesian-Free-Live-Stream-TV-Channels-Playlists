@@ -7,7 +7,7 @@ Server 2a: Official
 Server 2b: Official Alternative
 Server 3: External [meTube.Id](https://www.metube.id/live/ANTV)
 
-<img src="/img/Screenshot.png?raw=true" alt="Playlists Screenshot on VLC App" align="center">
+<img src="/img/screenshot.png?raw=true" alt="Playlists Screenshot on VLC App" align="center">
 
 --------------------------------------------------------------------------------------------
 
