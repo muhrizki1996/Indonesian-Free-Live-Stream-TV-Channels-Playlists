@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_net_big1.png" group-title="Local Channel",NET TV (Server 4)
 http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
+#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_net_big1.png" group-title="Local Channel",NET TV (Unknown Server)
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/rcti.png" group-title="Local Channel",RCTI (Server 1)
 http://id8.indostreamingtv.com/live/tv66/index.m3u8
 
