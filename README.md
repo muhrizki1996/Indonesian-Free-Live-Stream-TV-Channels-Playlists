@@ -6,7 +6,7 @@ Server 1: External ([tvonline.id](http://www.tvonline.id))<br>
 Server 2a: Official<br>
 Server 2b: Official Alternative<br>
 Server 3: External ([meTube.Id](https://www.metube.id/live/ANTV))<br>
-Server 4: External ([TV STREAMKU SERVER](https://tvstreamku.com/)) *Not works on VLC but works on IPTV.apk (Android)
+Server 4: External ([MNC Play](https://www.mncplay.id/))
 
 <img src="/img/screenshot.png?raw=true" alt="Playlists Screenshot on VLC App" align="center">
 
@@ -18,4 +18,4 @@ Server 4: External ([TV STREAMKU SERVER](https://tvstreamku.com/)) *Not works on
 --------------------------------------------------------------------------------------------
 
 ### Credits
-[tvonline.id](http://www.tvonline.id) | [meTube.Id](https://www.metube.id/live/) | [TV STREAMKU SERVER](https://tvstreamku.com/) | [LIVE TRANSTV](https://www.transtv.co.id/live) | [CNN Indonesia](https://www.cnnindonesia.com/tv) | [Beritasatu.tv](http://www.beritasatu.tv/streaming/) | [VIVA](https://www.viva.co.id/tvone/live) | [Metrotvnews.com](https://www.metrotvnews.com/live) | [Kompas TV](https://www.kompas.tv/live).
+[tvonline.id](http://www.tvonline.id) | [meTube.Id](https://www.metube.id/live/) | [MNC Play](https://www.mncplay.id/) | [LIVE TRANSTV](https://www.transtv.co.id/live) | [CNN Indonesia](https://www.cnnindonesia.com/tv) | [CNBC Indonesia](https://www.cnbcindonesia.com/tv) | [Beritasatu.tv](http://www.beritasatu.tv/streaming/) | [VIVA](https://www.viva.co.id/tvone/live) | [Metrotvnews.com](https://www.metrotvnews.com/live) | [Kompas TV](https://www.kompas.tv/live).
