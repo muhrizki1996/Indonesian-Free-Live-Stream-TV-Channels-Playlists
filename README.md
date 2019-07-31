@@ -1,7 +1,7 @@
 # Indonesian-Free-Live-TV-Stream-Channels-Playlists
 ### Information
-Total Channel: 14 (date: 22-Jun-2019 20:36)<br>
-Dead: 0  (date: 22-Jun-2019 20:36)<br>
+Total Channel: 15 (date: 31-Jul-2019 23:19)<br>
+Dead: 0  (date: 31-Jul-2019 23:19)<br>
 Server 1: External ([tvonline.id](http://www.tvonline.id))<br>
 Server 2a: Official<br>
 Server 2b: Official Alternative<br>
